@@ -1,0 +1,23 @@
+Keylogger Script
+This is a simple Python-based keylogger that simulates capturing user input. This script is intended for educational purposes only to demonstrate how input can be logged and processed. Please ensure you use it responsibly and in compliance with applicable laws and regulations. Unauthorized use of keyloggers or similar software can be illegal and unethical.
+
+Features
+Logs user input line by line.
+Stops when the user types Enter key.
+Captures and displays the keystrokes in real time.
+Requirements
+Python 3.x
+How to Use
+Clone the repository or download the script to your local machine.
+Run the script in a Python environment (e.g., python keylogger.py).
+The script will start logging your keystrokes.
+Type any input and it will be captured and displayed in real time.
+To stop the keylogger, simply type enter.
+Note: Ensure you have the necessary permissions and authorization to run the script, and never use it on systems without explicit consent.
+
+Warnings
+Ethical Use Only: The use of keyloggers without consent is illegal and unethical.
+Responsible Use: Only use this script on systems you own or have explicit permission to monitor.
+Data Privacy: Respect user privacy and avoid logging sensitive or personal information without authorization.
+Disclaimer
+This script is for educational purposes only. The author does not condone the unauthorized use of keylogging or any other form of surveillance. Use this script responsibly and in accordance with local laws and ethical standards.
